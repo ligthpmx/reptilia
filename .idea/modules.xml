@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../owner/my_cmdb/.idea/my_cmdb.iml" filepath="$PROJECT_DIR$/../../owner/my_cmdb/.idea/my_cmdb.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/reptilia.iml" filepath="$PROJECT_DIR$/.idea/reptilia.iml" />
     </modules>
   </component>
