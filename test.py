@@ -1,14 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-"""
-通过splinter刷12306火车票
-进入登陆页面，可以选择扫码登陆或者账号密码登陆
-登陆成功后，接下来的事情，交由脚本来做了，静静的等待抢票结果就好（刷票过程中，浏览器不可关闭）
-抢票成功，会进行手机短信和邮件的通知
-author: cuizy
-time: 2018-11-21
-"""
+
 
 import re
 from splinter.browser import Browser
